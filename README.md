@@ -1,0 +1,2 @@
+# gamezone
+pagina de videojuegos
